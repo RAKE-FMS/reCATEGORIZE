@@ -1,0 +1,2 @@
+# reCATEGORIZE
+ExifToolとImageMagickを用いて画像のタグ分類アプリ
